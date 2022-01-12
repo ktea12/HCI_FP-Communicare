@@ -1,0 +1,8 @@
+html, head, body {
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: lightblue;
+  background-image: linear-gradient(lightblue, lightyellow);
+}

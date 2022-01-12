@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Reading & Symbols</title>
+  <link rel="stylesheet" type="text/css" href="">
+</head>
+<style>
+h1 {text-align: center;}
+h2 {text-align: center;}
+body {text-align: center;}
+</style>
+<h1>
+<span class="bolded">Pick A Story!</span>
+</h1>
+
+<body>
+
+</body>
