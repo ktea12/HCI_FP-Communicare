@@ -4,11 +4,13 @@
   <title>ASL Learning</title>
   <link rel="stylesheet" type="text/css" href="">
 </head>
+
 <style>
 h1 {text-align: center;}
 h2 {text-align: center;}
 body {text-align: center;}
 </style>
+
 <h1>
 <span class="bolded">Pick A Letter from the Alphabet!</span>
 </h1>
@@ -41,4 +43,5 @@ body {text-align: center;}
 <button class="button button1">Y</button>
 <button class="button button1">Z</button>
 </body>
+
 </html>
