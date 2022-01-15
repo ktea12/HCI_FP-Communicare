@@ -15,4 +15,32 @@ body {text-align: center;}
 
 <body>
 
+<button class="button button1">A</button>
+<button class="button button1">B</button>
+<button class="button button1">C</button>
+<button class="button button1">D</button>
+<button class="button button1">E</button>
+<button class="button button1">F</button>
+<button class="button button1">G</button>
+<button class="button button1">H</button>
+<button class="button button1">I</button>
+<button class="button button1">J</button>
+<button class="button button1">K</button>
+<button class="button button1">L</button>
+<button class="button button1">M</button>
+<button class="button button1">N</button>
+<button class="button button1">O</button>
+<button class="button button1">P</button>
+<button class="button button1">Q</button>
+<button class="button button1">R</button>
+<button class="button button1">S</button>
+<button class="button button1">T</button>
+<button class="button button1">U</button>
+<button class="button button1">V</button>
+<button class="button button1">W</button>
+<button class="button button1">X</button>
+<button class="button button1">Y</button>
+<button class="button button1">Z</button>
+
 </body>
+</html>
