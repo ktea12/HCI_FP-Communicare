@@ -14,7 +14,6 @@ body {text-align: center;}
 </h1>
 
 <body>
-
 <button class="button button1">A</button>
 <button class="button button1">B</button>
 <button class="button button1">C</button>
@@ -41,6 +40,5 @@ body {text-align: center;}
 <button class="button button1">X</button>
 <button class="button button1">Y</button>
 <button class="button button1">Z</button>
-
 </body>
 </html>
