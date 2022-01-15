@@ -22,8 +22,8 @@ html, head, body {
 }
 
 .button1 {
-  background-color: white; 
-  color: black; 
+  background-color: white;
+  color: black;
   border: 2px solid #008CBA;
 }
 
