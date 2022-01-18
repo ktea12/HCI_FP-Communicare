@@ -1,0 +1,14 @@
+.parent {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(7, 1fr);
+}
+.child {
+    height: 64px;
+    width: 64px;
+}
+.grid-item {
+    padding: 40px;
+    font-size: 30px;
+    text-align: center;
+}
