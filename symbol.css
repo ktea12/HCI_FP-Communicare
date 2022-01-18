@@ -8,8 +8,10 @@ html, head, body {
 }
 
 .button {
+  font-family: "Times New Roman", Times, serif;
+  letter-spacing: 5px;
+  word-spacing: 10px;
   border: 1px;
-  color: white;
   padding: 16px 250px;
   text-align: center;
   text-decoration: none;
@@ -27,8 +29,7 @@ html, head, body {
 }
 
 .button1:hover {
-  background-color: #008CBA;
-  color: white;
+  color: red;
 }
 
 .button2 {
@@ -38,28 +39,25 @@ html, head, body {
 }
 
 .button2:hover {
-  background-color: #008CBA;
-  color: white;
+  color: purple;
 }
 
 .button3 {
   background-image: url("https://i.postimg.cc/pV41r4hQ/worldbackground.jpg");
-  color: black;
+  color: white;
   border: 2px solid #008CBA;
 }
 
 .button3:hover {
-  background-color: #008CBA;
-  color: white;
+  color: lightblue;
 }
 
 .button4 {
-  background-image: url("https://i.postimg.cc/mrPmTSLp/bedtimebackground.jpg");
-  color: black;
+  background-image: url("https://i.postimg.cc/WpYCctw4/bluecloud.jpg");
+  color: white;
   border: 2px solid #008CBA;
 }
 
 .button4:hover {
-  background-color: #008CBA;
-  color: white;
+  color: yellow;
 }
