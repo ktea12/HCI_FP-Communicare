@@ -30,4 +30,5 @@ html, head, body {
 .button1:hover {
   background-color: #008CBA;
   color: white;
+  box-shadow: 0 3px 5px 5px rgba(0, 255, 255, 0.3);
 }
