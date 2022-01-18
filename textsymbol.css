@@ -1,6 +1,15 @@
+html, head, body {
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;  /* fixed background and no repetition */
+  background-color: lightyellow;  /* set background */
+  background-image: linear-gradient(lightyellow, lightblue);  /* to make a gradient background */
+}
+
 .parent { /* parent class of the grid */
     display: grid; /* the reading text will be put inside a grid so that it is easier to put the icons on top of it */
-    grid-gap:10px;
+    grid-gap: 10px;
     grid-template-columns: repeat(7, 1fr);  /* repeating 7 columns for the grid */
 }
 .child { /* child class of the grid. the text will be put inside the child class */
