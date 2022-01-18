@@ -69,4 +69,35 @@ h1 {text-align: center;}
     <div class="child grid-item">better.</div>
   </div>
 </body>
+<style>
+  html, head, body {
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;  /* fixed background and no repetition */
+  background-color: lightyellow;  /* set background */
+  background-image: linear-gradient(lightyellow, lightblue);  /* to make a gradient background */
+}
+
+.parent { /* parent class of the grid */
+    display: grid; /* the reading text will be put inside a grid so that it is easier to put the icons on top of it */
+    grid-gap: 10px;
+    grid-template-columns: repeat(7, 1fr);  /* repeating 7 columns for the grid */
+}
+.child { /* child class of the grid. the text will be put inside the child class */
+    height: 2px; /* adjusting height and width of the inside grid  */
+    width: 50px;
+}
+.grid-item {
+    padding: 45px;
+    font-size: 20px; /* adjusting the padding, font size, and text alignment within the grid */
+    text-align: center;
+}
+.child:hover { /* will highlight the child class of the grid when it hovers, making it look like the text and icon is highlighted */
+  background-color: rgba(255, 176, 180, 0.753);
+}
+ /* "why use a hover to highlight the text and icon?" this will aid those with learning disabilities or difficulties 
+so that they can focus on the hovering text without being overwhelmed by other icons/texts. */
+
+</style>
 </html>
