@@ -3,6 +3,65 @@ html, head, body {
   margin: 0;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-color: lightblue;
-  background-image: linear-gradient(lightblue, lightyellow);
+  background-color: lightyellow;
+  background-image: linear-gradient(lightyellow, lightblue);
+}
+
+.button {
+  font-family: "Times New Roman", Times, serif;
+  letter-spacing: 5px;
+  word-spacing: 10px;
+  border: 1px;
+  padding: 16px 250px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 12px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-image: url("https://i.postimg.cc/Sxw0pHyv/sciencebackground.jpg");
+  color: black;
+  border: 2px solid #008CBA;
+}
+
+.button1:hover {
+  color: red;
+  box-shadow: 0 3px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+.button2 {
+  background-image: url("https://i.postimg.cc/25MXWWq9/people.jpg");
+  color: black;
+  border: 2px solid #008CBA;
+}
+
+.button2:hover {
+  color: purple;
+  box-shadow: 0 3px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+.button3 {
+  background-image: url("https://i.postimg.cc/pV41r4hQ/worldbackground.jpg");
+  color: white;
+  border: 2px solid #008CBA;
+}
+
+.button3:hover {
+  color: lightblue;
+  box-shadow: 0 3px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+.button4 {
+  background-image: url("https://i.postimg.cc/WpYCctw4/bluecloud.jpg");
+  color: white;
+  border: 2px solid #008CBA;
+}
+
+.button4:hover {
+  color: yellow;
+  box-shadow: 0 3px 5px 5px rgba(0, 0, 0, 0.2);
 }

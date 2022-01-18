@@ -1,0 +1,17 @@
+.parent {
+    display: grid;
+    grid-gap:10px;
+    grid-template-columns: repeat(7, 1fr);
+}
+.child {
+    height: 2px;
+    width: 50px;
+}
+.grid-item {
+    padding: 45px;
+    font-size: 20px;
+    text-align: center;
+}
+.child:hover {
+  background-color: rgba(255, 176, 180, 0.753);
+}
